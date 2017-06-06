@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 Display the revision
 
-# Function
+## Function
 
 Readme
+
+## How to Contribute
