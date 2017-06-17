@@ -17,3 +17,5 @@ Display the revision
 Readme
 
 ## How to Contribute
+
+All rights reserved
